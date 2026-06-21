@@ -1,4 +1,4 @@
-# 🍒 lychee-bot-acc
+# lychee-bot-acc
 
 > Automated review bot — sidekick of [@YoannLetacq](https://github.com/YoannLetacq)
 
