@@ -6,8 +6,6 @@
 Handles automated **code reviews** on @YoannLetacq's repos.
 
 ---
-*🍒 Powered by tokens & good vibes.*
-
 <p align="center">
   <img src="banner.svg" alt="lychee-bot-acc" width="100%">
 </p>
